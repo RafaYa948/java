@@ -13,6 +13,7 @@ import javax.swing.*;
 import javax.swing.text.JTextComponent;
 import models.User;
 
+
 public class LoginPage extends UIBase {
     public static final String APP_TITLE = "Automated Purchase Order Management System";
     private static final String USERNAME_PLACEHOLDER = "Username";
